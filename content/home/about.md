@@ -10,31 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Logging Analytics",
+    "Mobile & Web Development",
+    "Natural Language Analytics",
+    "Information Security"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.A.Sc in Electrical & Computer Engineering"
+  institution = "Concordia University"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "B.Eng in Software Engineering"
+  institution = "Shandong University"
+  year = 2016
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rui Zhou is a master student of Electrical and Computer Engineering at the Concordia Logging laboratory. His research interests contain logging analytics, cyber security, web and mobile programmable matter. He is studying the master and going to finish the first paper which will be published.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Rui Zhou est étudiant en master en génie électrique et informatique au Concordia Log Laboratory. Ses recherches portent sur l'analyse de journalisation, la cybersécurité, la matière programmable Web et mobile. Il étudie le maître et va finir le premier article qui sera publié. Il préfère se faire plus d'amis français
