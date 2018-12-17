@@ -60,6 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "Concordia University", url = "http://www.concordia.ca/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  # avatar = [ { url = "http://ww1.sinaimg.cn/large/b9ababe5ly1fyagcaj5r6j20no0710uc.jpg" } ]
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget

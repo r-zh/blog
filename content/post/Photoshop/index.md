@@ -21,6 +21,7 @@ categories = ["tool"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+
 [image]
 # Caption (optional)
   caption = ""
@@ -31,6 +32,9 @@ categories = ["tool"]
 
   # Show image only in page previews?
   preview_only = false
+
+
+
 +++
 
 hello
@@ -42,3 +46,5 @@ hello
 ![Screenshot](/img/portrait.png)
 
 ![Screenshot](featured.jpg)
+
+![](http://ww1.sinaimg.cn/large/b9ababe5ly1fyagcaj5r6j20no0710uc.jpg)
