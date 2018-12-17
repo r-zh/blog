@@ -69,7 +69,7 @@ enableGitInfo = false
   Monday to Wednesday 10:00 to 13:00\\
   Otherwise email to book an appointment
   """
-  phone = "514 660 6860"
+  phone = "(514)848-2424 ext. 7230"
   keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
@@ -317,10 +317,10 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-#[[menu.main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 5
+[[menu.main]]
+  name = "Tutorials"
+  url = "/tutorial/"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
