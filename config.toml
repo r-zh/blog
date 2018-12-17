@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "Concordia University", url = "http://www.concordia.ca/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "r_ou@encs.concordia.ca"
@@ -94,10 +94,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "45.495402"
+  longitude = "-73.577932"
   zoom = 15
 
   # SITE SETUP
@@ -142,7 +142,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -277,6 +277,11 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://twitter.com/ruizhou18"
 
+  [[params.social]]
+    icon = "youtube"
+    icon_pack = "fab"
+    link = "https://www.youtube.com/channel/UCOdCXwKiuz3rdW8QSqt93MA"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
@@ -312,10 +317,10 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+#[[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
