@@ -15,6 +15,7 @@ title = "Rui Zhou"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
+# academic lamp
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -61,7 +62,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   # avatar = [ { url = "http://ww1.sinaimg.cn/large/b9ababe5ly1fyagcaj5r6j20no0710uc.jpg" } ]
-  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "logo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "r_ou@encs.concordia.ca"
@@ -281,7 +282,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "youtube"
     icon_pack = "fab"
-    link = "https://www.youtube.com/channel/UCOdCXwKiuz3rdW8QSqt93MA"
+    link = "https://www.youtube.com/channel/UCOdCXwKiuz3rdW8QSqt93MA/playlists"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

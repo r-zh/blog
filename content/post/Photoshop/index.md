@@ -24,16 +24,14 @@ categories = ["tool"]
 
 [image]
 # Caption (optional)
-  caption = ""
 
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = ""
 
   # Show image only in page previews?
   preview_only = false
-
-
 
 +++
 
@@ -47,4 +45,4 @@ hello
 
 ![Screenshot](featured.jpg)
 
-![](http://ww1.sinaimg.cn/large/b9ababe5ly1fyagcaj5r6j20no0710uc.jpg)
+[![](http://ww1.sinaimg.cn/large/b9ababe5ly1fyagcaj5r6j20no0710uc.jpg)](http://ww1.sinaimg.cn/large/b9ababe5ly1fyagcaj5r6j20no0710uc.jpg)

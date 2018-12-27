@@ -19,27 +19,45 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Master Degree"
+  company = "Concordia University"
+  company_url = "http://www.concordia.ca/"
+  location = "Montreal"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
-  * Modelling
-  * Deploying
+  * Developing
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Intern Mobile App Developer"
+  company = "K-Logic"
+  company_url = "http://www.keluosoft.com/"
+  location = "Jinan"
+  date_start = "2013-09-01"
+  date_end = "2016-06-30"
+  description = """
+  Responsibilities include:
+
+  * Website Development
+  * Ionic Mobile App Development
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Cyber Security Lab"
+  company_url = "http://www.infosec.sdu.edu.cn/ENGLISH/Home.htm"
+  location = "Jinan"
+  date_start = "2014-09-01"
+  date_end = "2016-06-30"
+  description = """
+  Interests include
+
+  * Internet Logic Security
+  * Natural Language Analytics
+  """
 
 +++
