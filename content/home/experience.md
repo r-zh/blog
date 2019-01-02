@@ -33,7 +33,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Intern Mobile App Developer"
+  title = "Intern Software Developer"
   company = "K-Logic"
   company_url = "http://www.keluosoft.com/"
   location = "Jinan"
