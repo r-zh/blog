@@ -36,7 +36,10 @@ categories = []
 - Rich personal website
 - Scholarship
 - Structure of all post
-- French Language (200 words 30 expression)
+- French Language
+    - 200 words
+    - 30 expression
+    - Grammar
 - Exercise
     - Taichi
     - Savate
