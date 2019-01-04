@@ -33,9 +33,9 @@ Therefore, we need to develop the source code firstly, and push it to git. Then,
 
 ```
 cd public
-git clone https://github.com/:github_account/:git_repository
+git clone https://github.com/:github_account/:git_repository ./
 cd ..
-hugo server
+hugo 
 cd public
 git add .
 git commit -m 'update blog'
