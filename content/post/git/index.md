@@ -12,6 +12,8 @@ tags = ["Git"]
 categories = ["Tool"]
 
 +++
+## Overview
+![git_structure.png](https://a.photo/images/2019/01/05/git_structure.png)
 
 ## Update website
 Using [Hugo](https://gohugo.io/getting-started/) to set personal website has some issues about Git to attention. Source code and website code are independent.

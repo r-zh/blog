@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Java"
-[menu.tutorial]
+[menu.config]
   parent = "2. Language Install"
   weight = 1
 +++

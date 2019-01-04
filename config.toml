@@ -65,7 +65,6 @@ enableGitInfo = false
   avatar = "logo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "r_ou@encs.concordia.ca"
   address = "1455 De Maisonneuve Blvd. W. Montreal, Quebec, Canada H3G 1M8"
   phone = "(514)848-2424 ext. 7230; (Skype) live:tonyzhou_5"
   keybase = ""  # Your keybase.io username.
@@ -321,8 +320,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Config"
+  url = "/config/"
   weight = 5
 
 [[menu.main]]
