@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Mobile Game"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Android Game with Pygame, C++ 2D Game Engine"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -43,7 +43,8 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
+1. C++ 2D Game Engine, Advanture Game
 {{< youtube JaSA-VlXgv4 >}}
 
-werwe
+2. Pygame, Advanture Game
 {{< youtube xASl45NFnZk >}}

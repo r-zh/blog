@@ -2,6 +2,8 @@
 title = "Memorandum"
 date = 2019-01-04T10:06:30-05:00
 draft = false
+toc = true  # Show table of contents? true/false
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rui Zhou"]
@@ -48,8 +50,8 @@ categories = []
 
 # Hugo Academic
 
-[New Content](https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post)
+[New Post, Project, Publication](https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post)
 
 # Structure Of Personal Information
 
-![](https://a.photo/images/2019/01/04/contactStracture.png)
+![contactStracture.png](https://a.photo/images/2019/01/04/contactStracture.png)

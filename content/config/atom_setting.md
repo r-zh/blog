@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Atom"
-[menu.tutorial]
+[menu.config]
   parent = "3. Basic Tools"
   weight = 2
 +++

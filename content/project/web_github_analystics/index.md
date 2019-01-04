@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Web Service"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Web Service with HTML5, Ajax, jQuery, etc."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

@@ -1,10 +1,10 @@
 +++
-title = "Log"
+title = "Characterizing logging practices in Android applications"
 date = 2018-12-16T19:25:24-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["Rui Zhou"]
 
 # Publication type.
 # Legend:
@@ -26,12 +26,12 @@ abstract = ""
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
@@ -39,7 +39,7 @@ projects = []
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -67,7 +67,7 @@ url_source = ""
 doi = ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""

@@ -27,7 +27,7 @@ categories = []
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point = ""
 +++
 
 If you are urgent to create the App. Follow the link

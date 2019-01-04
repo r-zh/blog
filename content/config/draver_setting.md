@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Drivers"
-[menu.tutorial]
+[menu.config]
   parent = "1. Computer Environment"
   weight = 1
 +++

@@ -13,14 +13,10 @@ categories = ["Tool"]
 
 +++
 
-hello
-
-![Screenshot](https://images.unsplash.com/photo-1436658040953-a21ef6596481?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80)
-
-![avatar](/img/portrait.png)
-
-![Screenshot](/img/portrait.png)
-
-![Screenshot](featured.jpg)
-
-[![](http://ww1.sinaimg.cn/large/b9ababe5ly1fyagcaj5r6j20no0710uc.jpg)](http://ww1.sinaimg.cn/large/b9ababe5ly1fyagcaj5r6j20no0710uc.jpg)
+## Create the dynamic picture
+1. 导入图片 `File -> `
+2. 设置图片大小（宽500px）
+3. 打开时间轴控件
+4. 逆向并设置时间
+5. 设置过度（每张1秒，间隔20张）
+6. 存储为网页可识别

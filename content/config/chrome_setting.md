@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Chrome"
-[menu.tutorial]
+[menu.config]
   parent = "3. Basic Tools"
   weight = 1
 +++
