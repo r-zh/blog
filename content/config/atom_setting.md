@@ -31,3 +31,4 @@ There are some necessary plugins which can help write the code. Instal them accr
 - **Preview** Go to _Packages_ and disable `mark-preview`, then, go to _Install_ and search `mark-preview-plus`
 - **Tool-Bar** Search it by `tool-bar-markdown-writer`, it will need the dependency, include tool-bar and markdown-writer, the system will promt.
 - **Language** Search it by `language-markdown`
+- **Table** Search it by `markdown-table-editor`
