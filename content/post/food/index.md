@@ -111,6 +111,10 @@ caption = "rose_spicy_5"
 
 {{< gallery album="rose_spicy" >}}
 
+### 家庭专用火锅
+
+准备材料：香菇 泡面 白菜 羊肉 酒
+
 <br/>
 
 _吃完肉后，喝一杯浓茶帮助消化，人生极大乐事_
