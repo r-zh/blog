@@ -8,8 +8,8 @@ authors = ["Rui Zhou"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Web", "Service", "Theory"]
-categories = ["Course"]
+tags = ["web", "service", "theory"]
+categories = ["course"]
 +++
 
 ![]()

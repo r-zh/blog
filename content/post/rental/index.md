@@ -1,17 +1,16 @@
 +++
-title = "Memorandum"
-date = 2019-01-04T10:06:30-05:00
+title = "Consideration before Rental"
+subtitle = "Past experience, if not forgotten, is a guide for the future."
+date = 2019-01-10T09:44:56-05:00
 draft = false
-toc = true  # Show table of contents? true/false
-
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rui Zhou"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
+tags = ["Rental"]
+categories = ["life"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -31,27 +30,21 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-# 2019's Plan
 
-- Thesis Defence
-- Design the Software (Python Django)
-- Rich personal website - Structure for every post
-- Scholarship
-- Structure of all post
-- French Language
-    - 200 words
-    - 30 expression
-    - Grammar
-- Exercise
-    - Taichi
-    - Savate
-    - Iaido
-    - 形意拳
+### Bad experience
 
-# Hugo Academic
+1. Don't trust the landload compeletely. Before getting the `key` and clean house, don't pay anything.
+    - Confirm which room, which floor.
+2. Check the `door`, make sure it won't be locked by itself.
+3. Make sure the time to moving the `luggage`, be clear at which day and hour.
+    - If it changes, remind `what was discussed` before and ask why.
+    - Confirm 10 minutes `early` if it is not clear at time.
+4. For the urgent case, make a `call`, don't believe the messages.
 
-[New Post, Project, Publication](https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post)
+### Future alarm
 
-# Structure Of Personal Information
+1. Check the staff:
+    - washing machine, dry machine
+    - air condition
 
-![contactStracture.png](https://a.photo/images/2019/01/04/contactStracture.png)
+_先小人，后君子_

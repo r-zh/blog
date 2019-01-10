@@ -8,8 +8,8 @@ authors = []
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Git"]
-categories = ["Tool"]
+tags = ["git"]
+categories = ["tool"]
 
 +++
 ## Overview
@@ -35,7 +35,7 @@ Therefore, we need to develop the source code firstly, and push it to git. Then,
 cd public
 git clone https://github.com/:github_account/:git_repository ./
 cd ..
-hugo 
+hugo
 cd public
 git add .
 git commit -m 'update blog'
