@@ -41,15 +41,14 @@ categories = ["language"]
 
 ### 200 words
 ## Conjonction
-| Words     | Meaning | Words   | Meaning | Words     | Meaning | Words | Meaning   |
-| --------- | ------- | ------- | ------- | --------- | ------- | ----- | --------- |
-| et        | and     | aussi   | also    | autre     | other   | même  | same      |
-| ou        | or      | mais    | but     | peut-être | maybe   | si    | if        |
-| alors     | so,then | d'abord | first   | ensuite   | then    | donc  | therefore |
-| moi aussi | me too  | pas moi | not me  |           |         |       |           |
+| Words     | Meaning | Words     | Meaning | Words     | Meaning | Words   | Meaning   |
+| --------- | ------- | --------- | ------- | --------- | ------- | ------- | --------- |
+| et        | and     | ou        | or      | autre     | other   | d'abord | first     |
+|           |         | mais      | but     | peut-être | maybe   | ensuite | then      |
+| aussi     | also    | toutefois | however | si        | if      | donc    | therefore |
+| moi aussi | me too  | pas moi   | not me  | même      | same    | alors   | so, then  |
 
-
-
+## Verbe
 | Words   | Meaning  | Example                      |     | Words     | Meaning     | Example                |
 | ------- | -------- | ---------------------------- | --- | --------- | ----------- | ---------------------- |
 | être    | to be    | Êtes-vous marié?             |     | aller     | to go       | Où vas-tu?             |

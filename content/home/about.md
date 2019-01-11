@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "M.A.Sc in Electrical & Computer Engineering"
   institution = "Concordia University"
-  year = 2018
+  year = 2019
 
 [[education.courses]]
   course = "B.Eng in Software Engineering"

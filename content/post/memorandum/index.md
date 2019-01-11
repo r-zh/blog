@@ -4,7 +4,6 @@ date = 2019-01-04T10:06:30-05:00
 draft = false
 toc = true  # Show table of contents? true/false
 
-
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rui Zhou"]
 
@@ -34,7 +33,8 @@ categories = []
 # 2019's Plan
 
 - Thesis Defence
-- Design the Software (Python Django)
+    - maybe a long time to go
+- learning Python Django
 - Rich personal website - Structure for every post
 - Scholarship
 - Structure of all post
