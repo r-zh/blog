@@ -1,5 +1,5 @@
 +++
-title = "French Learn Tips"
+title = "French Learning Tips"
 date = 2018-12-16T19:21:55-05:00
 draft = false
 
@@ -41,12 +41,14 @@ categories = ["language"]
 
 ### 200 words
 ## Conjonction
-| Words     | Meaning | Words     | Meaning | Words     | Meaning | Words   | Meaning   |
-| --------- | ------- | --------- | ------- | --------- | ------- | ------- | --------- |
-| et        | and     | ou        | or      | autre     | other   | d'abord | first     |
-|           |         | mais      | but     | peut-être | maybe   | ensuite | then      |
-| aussi     | also    | toutefois | however | si        | if      | donc    | therefore |
-| moi aussi | me too  | pas moi   | not me  | même      | same    | alors   | so, then  |
+| Words        | Meaning     | Words     | Meaning  | Words     | Meaning | Words   | Meaning     |
+| ------------ | ----------- | --------- | -------- | --------- | ------- | ------- | ----------- |
+| et           | and         | ou        | or       | autre     | other   | d'abord | first       |
+| aussi        | also        | mais      | but      | peut-être | maybe   | ensuite | then, hence |
+| pour         | for         | toutefois | however  | si        | if      | donc    | therefore   |
+| moi aussi    | me too      | pas moi   | not me   | même      | same    | alors   | so, then    |
+| depuis       | since       | dans      | in       | sur       | on      | à       | at          |
+| quoi de plus | what's more | bien que  | although | par       | by      | par     | per         |
 
 ## Verbe
 | Words   | Meaning  | Example                      |     | Words     | Meaning     | Example                |
