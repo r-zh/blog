@@ -49,6 +49,7 @@ categories = ["language"]
 | moi aussi    | me too      | pas moi   | not me   | même      | same    | alors   | so, then    |
 | depuis       | since       | dans      | in       | sur       | on      | à       | at          |
 | quoi de plus | what's more | bien que  | although | par       | by      | par     | per         |
+| assez        | enough      | plutôt    | rather   | trés      | very    | ne pas  | not         |
 
 ## Verbe
 | Words   | Meaning  | Example                      |     | Words     | Meaning     | Example                |
