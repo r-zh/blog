@@ -1,7 +1,7 @@
 +++
 title = "UML Diagram Example"
 date = 2019-01-10T10:17:50-05:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rui Zhou"]

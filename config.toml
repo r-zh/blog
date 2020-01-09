@@ -54,11 +54,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Rui Zhou"
-<<<<<<< HEAD
   role = "Master of Computer Engineering"
-=======
-  role = "Master of Applied Science"
->>>>>>> e154f35cd0932fc1f58c243fca97d89e1003ff63
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -325,7 +321,7 @@ enableGitInfo = false
     name = "Posts"
     url = "#posts"
     weight = 4
-    
+
 
 [[menu.main]]
   name = "Config"

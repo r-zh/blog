@@ -10,12 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Logging Analytics",
-    "Mobile & Web Development",
-    "Natural Language Analytics",
-    "Information Security",
+    "Web Development",
+    "Data Analysis",
     "Machine Learning",
-    "Deep Learning"
+    "Vulnerability Detection"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -23,12 +21,12 @@ weight = 5
 [[education.courses]]
   course = "M.A.Sc in Computer Engineering"
   institution = "Concordia University"
-  year = 2020
+  year = "2020"
 
 [[education.courses]]
   course = "B.Eng in Software Engineering"
   institution = "Shandong University"
-  year = 2016
+  year = "2016"
 
 +++
 

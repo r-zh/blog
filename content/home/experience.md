@@ -27,10 +27,10 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing Log Vulnerability in Mobile Apps
   * Developing Anti-Compile Analysis Tools
-  * ENCS Tutorial Leader of Programming Methodology I & II
+  * Tutorial Leader of Advanced C++ 
   """
 
 [[experience]]
