@@ -19,26 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Master Degree"
+  title = "Graduate Research and Teaching Assistant"
   company = "Concordia University"
   company_url = "http://www.concordia.ca/"
   location = "Montreal"
-  date_start = "2018-01-01"
+  date_start = "2018-09-01"
   date_end = ""
   description = """
   Responsibilities include:
-
+  
   * Analysing Log Vulnerability in Mobile Apps
   * Developing Anti-Compile Analysis Tools
+  * ENCS Tutorial Leader of Programming Methodology I & II
   """
 
 [[experience]]
-  title = "Intern Software Developer"
-  company = "K-Logic"
+  title = "Software Developer"
+  company = "Kernelogic Software Inc"
   company_url = "http://www.keluosoft.com/"
   location = "Jinan"
-  date_start = "2013-09-01"
-  date_end = "2016-06-30"
+  date_start = "2015-09-01"
+  date_end = "2016-05-30"
   description = """
   Responsibilities include:
 
@@ -48,11 +49,11 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Cyber Security Lab"
+  company = "Shandong University Cyber Security Lab"
   company_url = "http://www.infosec.sdu.edu.cn/ENGLISH/Home.htm"
   location = "Jinan"
   date_start = "2014-09-01"
-  date_end = "2016-06-30"
+  date_end = "2015-08-30"
   description = """
   Interests include
 

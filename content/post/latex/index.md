@@ -1,7 +1,7 @@
 +++
 title = "Latex Writing Tips"
 date = 2018-12-16T19:19:04-05:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rui Zhou"]

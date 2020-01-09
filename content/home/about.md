@@ -13,7 +13,9 @@ weight = 5
     "Logging Analytics",
     "Mobile & Web Development",
     "Natural Language Analytics",
-    "Information Security"
+    "Information Security",
+    "Machine Learning",
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,6 +34,6 @@ weight = 5
 
 # Biography
 
-Rui Zhou is a master student of Electrical and Computer Engineering at the Concordia Logging laboratory. His research interests contain logging analytics, cyber security, web and mobile programmable matter. He is studying the master and going to finish the first paper which will be published.
+Experienced software developer looking for challenging opportunities in the field of software development and evolution. Excellent technical skills in programming using C++, Java, and Python. Excellent knowledge of the Android platform and app development. Holder of a Master’s degree in electrical and computer engineering with a focus on software engineering.
 
-Rui Zhou est étudiant en master en génie électrique et informatique au Concordia Log Laboratory. Ses recherches portent sur l'analyse de journalisation, la cybersécurité, la matière programmable Web et mobile. Il étudie le maître et va finir le premier article qui sera publié. Il préfère se faire plus d'amis français.
+Développeur de logiciel expérimenté à la recherche d'opportunités stimulantes dans le domaine du développement et de l'évolution de logiciels. Excellentes compétences techniques en programmation utilisant C ++, Java et Python. Excellente connaissance de la plateforme Android et du développement d'applications. Titulaire d’une maîtrise en génie électrique et informatique avec une spécialisation en génie logiciel.

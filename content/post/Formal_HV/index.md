@@ -1,7 +1,7 @@
 +++
 title = "Formal Hardware Verification"
 date = 2018-12-16T19:20:28-05:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rui Zhou"]

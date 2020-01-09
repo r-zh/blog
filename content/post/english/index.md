@@ -1,7 +1,7 @@
 +++
 title = "English & Expression Tips"
 date = 2018-12-16T19:22:05-05:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rui Zhou"]
