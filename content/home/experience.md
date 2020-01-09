@@ -28,8 +28,8 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
 
-  * Analysing
-  * Developing
+  * Analysing Log Vulnerability in Mobile Apps
+  * Developing Anti-Compile Analysis Tools
   """
 
 [[experience]]

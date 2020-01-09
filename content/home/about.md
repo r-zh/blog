@@ -19,9 +19,9 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "M.A.Sc in Electrical & Computer Engineering"
+  course = "M.A.Sc in Computer Engineering"
   institution = "Concordia University"
-  year = 2019
+  year = 2020
 
 [[education.courses]]
   course = "B.Eng in Software Engineering"
