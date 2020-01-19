@@ -37,14 +37,13 @@ url_poster = ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  #caption = ""
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  #focal_point = "Center"
+  focal_point = ""
 +++
 1. C++ 2D Game Engine, Advanture Game
-{{< youtube JaSA-VlXgv4 >}}
+
 
 2. Pygame, Advanture Game
-{{< youtube xASl45NFnZk >}}

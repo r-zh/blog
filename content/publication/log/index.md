@@ -1,10 +1,10 @@
 +++
-title = "Characterizing logging practices in Android applications"
-date = 2018-12-16T19:25:24-05:00
-draft = true
+title = "MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices"
+date = 2020-01-18T19:25:24-05:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Rui Zhou"]
+authors = ["Rui Zhou","Mohammad Hamdaqa", "Haipeng Cai", "Abdelwahab Hamou-Lhadj"]
 
 # Publication type.
 # Legend:
@@ -15,15 +15,15 @@ authors = ["Rui Zhou"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering"
+publication_short = "SANER"
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+abstract = "Logging is an essential software practice that is used by developers to debug, diagnose and audit software systems. Despite the advantages of logging, poor logging practices can potentially leak sensitive data. The problem of data leakage is more severe in applications that run on mobile devices, since these devices carry sensitive identification information ranging from physical device identifiers (e.g., IMEI MAC address) to communications network identifiers (e.g., SIM, IP, Bluetooth ID), and application-specific identifiers related to the location and the users’ accounts. This preliminary study explores the impact of logging practices on data leakage of such sensitive information. Particularly, we want to investigate whether log-related statements inserted into an application code could lead to data leakage. While studying logging practices in mobile applications is an active research area, to our knowledge, this is the first study that explores the interplay between logging and security in the context of mobile applications for Android. We propose an approach called MobiLogLeak, an approach that identifies log statements in deployed apps that leak sensitive data. MobiLogLeak relies on taint flow analysis. Among 5,000 Android apps that we studied, we found that 200 apps leak sensitive data through logging."
+abstract_short = "We propose an approach called MobiLogLeak, an approach that identifies log statements in deployed apps that leak sensitive data. MobiLogLeak relies on taint flow analysis. "
 
 # Is this a selected publication? (true/false)
 selected = true
