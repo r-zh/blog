@@ -41,3 +41,4 @@ git add .
 git commit -m 'update blog'
 git push
 ```
+Don't forget the `./` in the second command. Otherwise, the public will have one folder rather than all code library
