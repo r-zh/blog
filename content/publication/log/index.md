@@ -18,8 +18,8 @@ authors = ["Rui Zhou","Mohammad Hamdaqa", "Haipeng Cai", "Abdelwahab Hamou-Lhadj
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering"
-publication_short = "SANER"
+publication = "IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (Saner), ERA track, 2020"
+publication_short = "SANER 2020"
 
 # Abstract and optional shortened version.
 abstract = "Logging is an essential software practice that is used by developers to debug, diagnose and audit software systems. Despite the advantages of logging, poor logging practices can potentially leak sensitive data. The problem of data leakage is more severe in applications that run on mobile devices, since these devices carry sensitive identification information ranging from physical device identifiers (e.g., IMEI MAC address) to communications network identifiers (e.g., SIM, IP, Bluetooth ID), and application-specific identifiers related to the location and the users’ accounts. This preliminary study explores the impact of logging practices on data leakage of such sensitive information. Particularly, we want to investigate whether log-related statements inserted into an application code could lead to data leakage. While studying logging practices in mobile applications is an active research area, to our knowledge, this is the first study that explores the interplay between logging and security in the context of mobile applications for Android. We propose an approach called MobiLogLeak, an approach that identifies log statements in deployed apps that leak sensitive data. MobiLogLeak relies on taint flow analysis. Among 5,000 Android apps that we studied, we found that 200 apps leak sensitive data through logging."
@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Android"]
 
 # Links (optional).
 url_pdf = "https://github.com/r-zh/blog/blob/master/content/publication/log/saner2020_final.pdf"
