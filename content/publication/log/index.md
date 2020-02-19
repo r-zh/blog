@@ -49,8 +49,8 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://www.conference-publishing.com/download.php?Event=SANER20ERA&Paper=EssTrTzCH7c8mcNBJR2Zc1tUEtt1kC&Version=preprint"
+url_pdf = "https://github.com/r-zh/blog/blob/master/content/publication/log/saner2020_final.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
