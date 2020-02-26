@@ -28,7 +28,7 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
 
-  * Analysing Log Vulnerability in Mobile Apps
+  * Analyzing Log Vulnerability in Mobile Apps
   * Developing Anti-Compile Analysis Tools
   * Tutorial Leader of Advanced C++ 
   """

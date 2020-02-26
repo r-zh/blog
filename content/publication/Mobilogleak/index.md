@@ -1,6 +1,6 @@
 +++
 title = "MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices"
-date = 2020-01-18T19:25:24-05:00
+date = 2020-02-22T19:25:24-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Rui Zhou","Mohammad Hamdaqa", "Haipeng Cai", "Abdelwahab Hamou-Lhadj
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (Saner), ERA track, 2020"
+publication = "27th IEEE International Conference on Software Analysis, Evolution and Reengineering (Saner), ERA track, 2020"
 publication_short = "SANER 2020"
 
 # Abstract and optional shortened version.
@@ -42,20 +42,20 @@ projects = []
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides = "content/publication/MobiLogLeak/Saner2020.pptx"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Android"]
+tags = ["Android","Data-Leakage"]
 
 # Links (optional).
-url_pdf = "https://github.com/r-zh/blog/blob/master/content/publication/log/saner2020_final.pdf"
+url_pdf = "https://r-zh.github.io/publication/mobilogleak/saner_2020.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://androzoo.uni.lu/"
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/aYTwwvd4biw"
 url_poster = ""
 url_source = ""
 
@@ -76,3 +76,5 @@ doi = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+This work was done with my supervisor [Wahab Hamou-Lhadj](https://users.encs.concordia.ca/~abdelw/) in collaboration with Dr. Mohammad Hamdaqa and Dr. Haipeng Cai. Presented by Rui Zhou on Feb. 21, 2020, in London, ON, Canada.

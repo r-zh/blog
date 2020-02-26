@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Web Service"]
+tags = ["Web Service","Website"]
 
 # Project summary to display on homepage.
 summary = "Web Service with HTML5, Ajax, jQuery, etc."
@@ -43,4 +43,13 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomRight"
 +++
-{{< youtube mqpxhWz8PGI >}}
+
+|    Project    | Technology     |
+| ------------ | ----------- |
+| Course |  Programming on the Cloud |
+| Design|  HTML 5, Bootstrap, Ajax|
+|Deep Learning Model| LSTM|
+
+{{< youtube Ug0Yhak1uQs >}}
+
+The online website which analyzes the users' information and predicts the programming languages trend.
